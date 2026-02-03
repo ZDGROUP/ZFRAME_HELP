@@ -1,0 +1,63 @@
+zframe-docs/
+│
+├── 📁 01-getting-started/
+│   ├── 01-introduction.md
+│   ├── 02-system-requirements.md
+│   ├── 03-installation-guide.md
+│   ├── 04-first-project.md
+│   └── images/
+│
+├── 📁 02-core-concepts/
+│   ├── 01-architecture-overview.md
+│   ├── 02-database-structure.md
+│   ├── 03-authentication-authorization.md
+│   ├── 04-session-management.md
+│   └── glossary.md
+│
+├── 📁 03-form-design/
+│   ├── 01-form-types.md
+│   ├── 02-controls-reference.md
+│   ├── 03-data-types.md
+│   ├── 04-events-validation.md
+│   └── tutorials/
+│       ├── create-person-form.md
+│       └── custom-form-design.md
+│
+├── 📁 04-business-logic/
+│   ├── 01-modules-menus.md
+│   ├── 02-reports-dashboards.md
+│   ├── 03-workflow-engine.md
+│   └── business-rules/
+│
+├── 📁 05-database/
+│   ├── 01-data-modeling.md
+│   ├── 02-query-building.md
+│   ├── 03-migration.md
+│   └── sql-samples/
+│
+├── 📁 06-advanced/
+│   ├── 01-custom-java.md
+│   ├── 02-integrations.md
+│   ├── 03-performance.md
+│   └── debugging/
+│
+├── 📁 07-deployment/
+│   ├── 01-server-config.md
+│   ├── 02-backup-recovery.md
+│   └── monitoring/
+│
+├── 📁 08-tutorials/
+│   ├── accounting-system/
+│   ├── inventory-system/
+│   └── hr-portal/
+│
+├── 📁 09-api-reference/
+│   ├── rest-api.md
+│   └── java-api.md
+│
+├── 📁 resources/
+│   ├── cheatsheets/
+│   ├── templates/
+│   └── tools/
+│
+└── 📄 README.md

@@ -1,0 +1,20 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+ECHO is off.
+# سیستم
+Thumbs.db
+Desktop.ini
+ECHO is off.
+# لاگ‌ها
+*.log
+ECHO is off.
+# موقت
+temp/
+tmp/
+ECHO is off.
+# تصاویر
+images/
+*.tmp
